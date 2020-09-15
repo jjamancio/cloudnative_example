@@ -9,3 +9,6 @@ The included Java projects and/or installation files are here:
 * Order service  - Quarkus application service running on OpenJDK or native for writing and displaying reviews for products
 * User Service - Vert.x service running on JDK for managing users
 * Payment Service  - A Quarkus based FaaS with Knative
+
+
+This is a clone from https://github.com/RedHat-Middleware-Workshops/cloud-native-workshop-v2m4-labs.git , but with some exercicies already done for a faster demonstration.
